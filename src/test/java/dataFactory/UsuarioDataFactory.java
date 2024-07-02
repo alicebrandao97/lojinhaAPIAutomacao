@@ -1,5 +1,4 @@
 package dataFactory;
-
 import pojo.UsuarioPojo;
 
 public class UsuarioDataFactory {
